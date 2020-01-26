@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-
+// new
 struct AboutAuthor: View {
     
     let orageColor = Color(red: 255.0 / 255.0, green: 214 / 255.0, blue: 179.0 / 255.0)
